@@ -10,8 +10,8 @@ I'm a computer science student at McGill who builds things at the intersection o
 
 ## Current Projects
 - **Promptl**: a creative writing app for kids with learning differences (you can test it out [here](https://promptl.com)!)
-- **McBurn**: a burnout calculator for McGill students (in progress, in a team, planning to expand; [repo](https://github.com/zcoder365/AntiBurnout-McHacks13))
-- **Goodreads Trend Analysis**: a personal data science project to track the trends in Goodreads from 2020 to 2025 ([repo](https://github.com/zcoder365/ReadingTrendAnalysis); planning to expand to other platforms like Fable, The StoryGraph, or track trends on TikTok)
+- **McBurn**: a burnout calculator for McGill students (in progress, in a team, planning to expand; view the repo [here](https://github.com/zcoder365/AntiBurnout-McHacks13))
+- **Goodreads Trend Analysis**: a personal data science project to track the trends in Goodreads from 2020 to 2025 (view my repo [here](https://github.com/zcoder365/ReadingTrendAnalysis); planning to expand to other platforms like Fable, The StoryGraph, or track trends on TikTok)
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
