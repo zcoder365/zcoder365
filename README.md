@@ -22,4 +22,10 @@ I'm a computer science student at McGill who builds things at the intersection o
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical) -->
+
+<!--
+# Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/zoedroulias/))
+-->
