@@ -1,6 +1,6 @@
 # Hey, I'm Zoe 👋
 
-I'm a computer science student at McGill who builds things at the intersection of tech and creativity.
+I'm a computer science student at McGill creating useful tools at the intersection of tech and creativity.
 
 ## About Me
 - 🎓 3rd year at McGill University (comp sci major, communication studies minor)
