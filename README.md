@@ -22,3 +22,4 @@ I'm a computer science student at McGill who builds things at the intersection o
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical)
