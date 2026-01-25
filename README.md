@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Zoe 👋
 
-<!--
-**zcoder365/zcoder365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at McGill who builds things at the intersection of tech and creativity.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 3rd year at McGill University (comp sci major, communication studies minor)
+- 💻 Building web apps that solve real problems
+- 🎵 Songwriter & music producer in Logic Pro X
+- 🧠 Always learning, always creating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- **Promplt**: a creative writing app for kids with learning differences (you can test it out [here](https://promptl.com)!)
+- **McBurn**: a burnout calculator for McGill students (in progress, in a team, planning to expand)
+
+## Languages & Tools
+`python` `java` `javascript` `html/css` `react` `flask`
