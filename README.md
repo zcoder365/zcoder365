@@ -3,10 +3,13 @@
 I'm a computer science student at McGill creating useful tools at the intersection of tech and creativity.
 
 ## About Me
-- 🎓 3rd year at McGill University (comp sci major, communication studies minor)
-- 💻 Building web apps that solve real problems
-- 🎵 Songwriter & music producer in Logic Pro X
-- 🧠 Always learning, always creating
+🎓 3rd year at McGill University (comp sci major, communication studies minor)
+
+💻 Building web apps that solve real problems
+
+🎵 Songwriter & music producer in Logic Pro X
+
+🧠 Always learning, always creating
 
 ## Current Projects
 - **Promptl**: a creative writing app for kids with learning differences (you can test it out [here](https://promptl.com)!)
