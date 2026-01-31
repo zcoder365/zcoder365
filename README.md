@@ -35,5 +35,5 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 <!-- ![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcoder365&show_icons=true&theme=radical) -->
 
 # Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/zoedroulias/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[your-linkedin-url](https://www.linkedin.com/in/zoedroulias/)](https://www.linkedin.com/in/zoedroulias/))
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoedroulias@yahoo.com)-->
