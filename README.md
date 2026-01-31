@@ -32,8 +32,8 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical) -->
+<!-- ![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcoder365&show_icons=true&theme=radical) -->
 
-<!--
 # Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/zoedroulias/))
--->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoedroulias@yahoo.com)-->
