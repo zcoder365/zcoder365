@@ -3,6 +3,7 @@
 I'm a computer science student at McGill creating useful tools at the intersection of tech and creativity.
 
 ## About Me
+
 🎓 3rd year at McGill University (comp sci major, communication studies minor)
 
 💻 Building web apps that solve real problems
@@ -12,6 +13,7 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 🧠 Always learning, always creating
 
 ## Current Projects
+
 - **Promptl**: a creative writing app for kids with learning differences (you can test it out [here](https://promptl.com)!)
 - **McBurn**: a burnout calculator for McGill students (in progress, in a team, planning to expand; view the repo [here](https://github.com/zcoder365/AntiBurnout-McHacks13))
 - **Goodreads Trend Analysis**: a personal data science project to track the trends in Goodreads from 2020 to 2025 (view my repo [here](https://github.com/zcoder365/ReadingTrendAnalysis); planning to expand to other platforms like Fable, The StoryGraph, or track trends on TikTok)
@@ -20,6 +22,7 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 - **Boggle Online Board**: a website containing a boggle board for users to play with (planning to add a timer and let users input words; view the repo [here](https://github.com/zcoder365/Boggle))
 
 ## Languages & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,11 +34,14 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical&hide_border=true&langs_count=3) --> 
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical&hide_border=true&langs_count=5)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zcoder365&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zcoder365&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 # Let's connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoedroulias/)
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoedroulias@yahoo.com)-->
