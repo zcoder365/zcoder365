@@ -32,8 +32,9 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical&hide_border=true&langs_count=3)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical&hide_border=true&langs_count=3) --> 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zcoder365&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 # Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoedroulias/)
