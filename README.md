@@ -38,9 +38,8 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zcoder365&theme=radical" alt="Most Used Languages" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zcoder365&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zcoder365&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zcoder365&theme=radical" alt="Most Used Languages" width="450"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zcoder365&theme=radical" alt="GitHub Stats" width="450"/>
 </div>
 
 # Let's connect!
