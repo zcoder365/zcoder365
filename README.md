@@ -37,9 +37,11 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical&hide_border=true&langs_count=5)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zcoder365&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zcoder365&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zcoder365&layout=compact&theme=radical&hide_border=true&langs_count=5)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=zcoder365&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zcoder365&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 # Let's connect!
 
