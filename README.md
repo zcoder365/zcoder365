@@ -50,10 +50,13 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zcoder365&theme=radical" alt="Most Used Languages" width="450"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zcoder365&theme=radical" alt="GitHub Stats" width="450"/>
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zcoder365&theme=radical" alt="Most Used Languages" width="445"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zcoder365&theme=radical" alt="GitHub Stats" width="445"/>
+  </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zcoder365&theme=radical" alt="Contribution Graph" width="900"/>
 </div>
+
 
 # 🔗 Let's connect!
 
