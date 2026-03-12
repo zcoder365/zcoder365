@@ -1,6 +1,6 @@
 # Hey, I'm Zoe 👋
 
-I'm a computer science student at McGill creating useful tools at the intersection of tech and creativity. Passionate about telling stories with data.
+I'm a computer science student at McGill creating useful tools at the intersection of tech and creativity. I'm passionate about telling stories with data.
 
 ## 👾 About Me
 
