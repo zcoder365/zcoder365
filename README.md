@@ -13,7 +13,7 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 ## 📁 Current Projects
 
 - **Promptl**: a creative writing app for kids with learning differences (you can test it out [here](https://promptl.com)!)
-- **McBurn**: a burnout calculator for McGill students (in progress, in a team, planning to expand; view the repo [here](https://github.com/zcoder365/AntiBurnout-McHacks13))
+- **McBurn**: a burnout calculator for McGill students (in a team, planning to expand; view the repo [here](https://github.com/zcoder365/AntiBurnout-McHacks13))
 - **Goodreads Trend Analysis**: a personal data science project to track the trends in Goodreads from 2020 to 2025 (view my repo [here](https://github.com/zcoder365/ReadingTrendAnalysis); planning to expand to other platforms like Fable, The StoryGraph, or track trends on TikTok)
 - **Friendship Bracelet Visualizer**: a website for helping friendship bracelet creators view some basic patterns before making bracelets (view the repo [here](https://github.com/zcoder365/FriendshipBraceletVisualizer))
 - **My Series of Fortunate Events**: a journaling app to get users to focus on the good things happening in their day, enforcing a positive mindset (involves some graphical representations of the users' entry data; view the repo [here](https://github.com/zcoder365/MySeriesofFortunateEvents))
@@ -60,4 +60,4 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoedroulias/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://zcoder365.github.io/PortfolioSite/) -->
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoedroulias@yahoo.com)-->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoedroulias@gmail.com)-->
