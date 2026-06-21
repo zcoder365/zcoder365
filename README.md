@@ -18,6 +18,7 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 - **Friendship Bracelet Visualizer**: a website for helping friendship bracelet creators view some basic patterns before making bracelets (view the repo [here](https://github.com/zcoder365/FriendshipBraceletVisualizer))
 - **My Series of Fortunate Events**: a journaling app to get users to focus on the good things happening in their day, enforcing a positive mindset (involves some graphical representations of the users' entry data; view the repo [here](https://github.com/zcoder365/MySeriesofFortunateEvents))
 - **Boggle Online Board**: a website containing a boggle board for users to play with (planning to add a timer and let users input words; view the repo [here](https://github.com/zcoder365/Boggle))
+- **Margin**: a study planner for university students that organizes coursework by term and class, breaks assignments into tasks using AI, schedules them around your real availability, and tracks your grades — all in one quiet, focused tool.
 
 ## 🌱 Currently Learning
 
