@@ -4,13 +4,11 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 
 ## 👾 About Me
 
-🎓 3rd year at McGill University (comp sci major, communication studies minor)
+🎓 Rising 4th year at McGill University (comp sci major, communication studies minor)
 
 💻 Building web apps that solve real problems
 
 🎵 Songwriter & music producer in Logic Pro X
-
-🧠 Always learning, always creating
 
 ## 📁 Current Projects
 
