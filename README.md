@@ -22,9 +22,8 @@ I'm a computer science student at McGill creating useful tools at the intersecti
 
 ## 🌱 Currently Learning
 
-- JavaScript
-- C++
-- Natural language processing & data science techniques
+- Configuration drift
+- Automation scripting
 
 ## 👩🏻‍💻 Languages & Tools
 
